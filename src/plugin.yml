@@ -1,0 +1,7 @@
+name: DontJump
+main: cf.bugodev.dontjump.DontJump
+author: bugo07
+version: 1.0
+commands: 
+  dontjump:
+  heal:
