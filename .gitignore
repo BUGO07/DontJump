@@ -1,0 +1,14 @@
+# Project Config
+.project
+
+# Class Path
+.classpath
+
+# Settings
+.settings/
+
+# Libraries
+lib/
+
+# Bin
+bin/

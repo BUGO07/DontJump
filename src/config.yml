@@ -1,0 +1,5 @@
+# This will displayed in front of every command feedback!
+prefix: "&8[&cDontJump&8]"
+
+# This will be displayed after you execute "/dontjump reload" command!
+reload-message: "&aSuccessfully reloaded DontJump!"
