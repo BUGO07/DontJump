@@ -1,7 +1,5 @@
 # Welcome to DontJump 👋
-![Version](https://img.shields.io/badge/version-v1.0-blue.svg?cacheSeconds=2592000)
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Version](https://img.shields.io/badge/version-v1.0-blue.svg?cacheSeconds=2592000)[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 > DontJump Challange
 
