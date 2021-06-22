@@ -1,7 +1,7 @@
 # Welcome to DontJump 👋
 ![Version](https://img.shields.io/badge/version-v1.0-blue.svg?cacheSeconds=2592000)
 
-![License](https://img.shields.io/badge/License-Apache-2.0-yellow.svg)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 > DontJump Challange
 
@@ -18,7 +18,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/BUGO07/DontJump/issues). You can also take a look at the [contributing guide](https://github.com/BUGO07/DontJump/pulls).
+Feel free to check [issues page](https://github.com/BUGO07/DontJump/issues). You can also [contribute](https://github.com/BUGO07/DontJump/pulls) to this project.
 
 ## 📝 License
 
