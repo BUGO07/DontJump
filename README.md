@@ -12,6 +12,7 @@
 
 * Website: https://www.bugodev.cf
 * Github: [@BUGO07](https://github.com/BUGO07)
+* Spigot: https://www.spigotmc.org/resources/96880/
 
 ## 🤝 Contributing
 
